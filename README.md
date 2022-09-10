@@ -5,4 +5,18 @@
 
 ## Study Bot Interface
 
-![This is an image]
+![This is an image](/ss/study-bot.png)
+
+>Command : Open Google
+
+![This is an image](/ss/open-google.jpg)
+
+>Command : Play Music
+
+![This is an image](/ss/play-music.png)
+
+>Command : What is the weather?
+
+![This is an image](/ss/weather.jpg)
+
+
